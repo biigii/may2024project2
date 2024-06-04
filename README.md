@@ -1,6 +1,7 @@
-Yoobee Web Development Class
+# Yoobee Web Development Class
+## Project 2 
 
-Project 2 
+---
 
 - read more about html meta tags:
 https://codepen.io/behshad/pen/EdMqbe
